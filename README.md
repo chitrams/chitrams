@@ -6,4 +6,4 @@
 
 💻 I mainly use R but am also learning C and Python.
 
-<h4 align="center">https://chitrams.netlify.app</h4>
+<h4 align="center">https://chitra-ms.com</h4>
