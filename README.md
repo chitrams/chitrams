@@ -5,7 +5,7 @@
 
 💬 Talk to me about statistical analyses, orchestrating analysis pipelines, and high performance computing. I also love chatting about open research, better software principles, research translation, and public health issues. 
 
-✨ You can also ask me anything about baking, playing the piano, yoga, and Copperplate calligraphy.
+✨ Also talk to me about baking, playing the piano, strength training, and Copperplate calligraphy.
 
 📨 If you'd like to contact me, best e-mail me at my The Kids email address.
 
